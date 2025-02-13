@@ -1,0 +1,55 @@
+Question1. 
+Example Input:
+Enter a string: Hello World 2024!
+
+Example Output:
+Vowels: 3
+Consonants: 7
+Digits: 4
+Special Characters: 3
+
+Question2.
+Enter the number of rows and columns: 2 2
+Enter elements of Matrix 1:
+1 2
+3 4
+Enter elements of Matrix 2:
+5 6
+7 8
+Addition:
+6 8
+10 12
+Subtraction:
+-4 -4
+-4 -4
+Multiplication:
+19 22
+43 50
+
+Question3.
+Enter Name: John Doe
+Enter Account Number: 12345
+Enter Initial Balance: 1000
+
+1. Deposit
+2. Withdraw
+3. Check Balance
+4. Exit
+Choose an option: 1
+Enter deposit amount: 500
+Deposit successful! Current Balance: 1500.0
+
+1. Deposit
+2. Withdraw
+3. Check Balance
+4. Exit
+Choose an option: 2
+Enter withdrawal amount: 2000
+Error: Insufficient funds. Current Balance: 1500.0
+
+1. Deposit
+2. Withdraw
+3. Check Balance
+4. Exit
+Choose an option: 4
+Exiting... Thank you!
